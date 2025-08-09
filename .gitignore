@@ -1,0 +1,16 @@
+# Node / frontend
+node_modules/
+web/node_modules/
+web/dist/
+web/.vite/
+web/.env
+
+# Server
+server/node_modules/
+server/.env
+server/db.sqlite
+server/backup-*.sqlite
+
+# OS/editor
+.DS_Store
+*.log
